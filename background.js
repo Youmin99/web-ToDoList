@@ -9,6 +9,6 @@ const chosenImage = images[Math.floor(Math.random() * images.length)];
 const bgImage = document.createElement("img");
 const body = document.querySelector("body")
 
-bgImage.src = `C:/Users/engli/OneDrive/Desktop/webpage.github.io/to-do/backimg/${chosenImage}`;
+bgImage.src = `C:/Users/engli/OneDrive/Desktop/web-ToDoList/backimg/${chosenImage}`;
 body.appendChild(bgImage);
 

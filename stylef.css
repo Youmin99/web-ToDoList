@@ -1,0 +1,120 @@
+#clock1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+form{
+    display: flex;
+}
+img{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    z-index: -1;
+    animation: fadeIn .4s linear;
+}
+/*
+      #fb{
+        display: flex;
+        height: 40vh;
+        justify-content:center;
+        align-items:center;
+        background-color: whitesmoke;
+      }
+
+      <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      
+
+      body div:first-child{
+        background-color: whitesmoke;
+        display: flex;
+        justify-content:center;
+        align-items:center;
+      }  
+      #fb,#sb{
+        display: flex;
+        height: 45vh;
+        justify-content:center;
+        align-items:center;
+        background-color: whitesmoke;
+      }
+
+      #f,#s{
+        height: 300px;
+        width: 200px;
+        margin-left: 20px;
+        background-color: white;
+      }
+      div#fb:last-child{
+        height: 300px;
+        width: 200px;
+        background-color: red;
+      }
+      #t,#fo{
+        height: 300px;
+        width: 200px;
+        margin-left: 20px;
+        background-color: white;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+    <h1>The Best Colors</h1>
+    </div>
+    <div >
+        <div ></div>
+        <div ></div>
+    </div>
+    <div id ="sb">
+        <div id ="t"></div>
+        <div id ="fo"></div>
+    </div>
+    </div>
+  </body>
+</html>
+
+    body div:first-child{
+        background-color: whitesmoke;
+        display: flex;
+        justify-content:center;
+        align-items:center;
+      }  
+      #fb,#sb{
+        display: flex;
+        height: 45vh;
+        justify-content:center;
+        align-items:center;
+        background-color: whitesmoke;
+      }
+
+      #f,#s{
+        height: 300px;
+        width: 200px;
+        margin-left: 20px;
+        background-color: white;
+      }
+      div#fb:last-child{
+        height: 300px;
+        width: 200px;
+        background-color: red;
+      }
+      #t,#fo{
+        height: 300px;
+        width: 200px;
+        margin-left: 20px;
+        background-color: white;
+      }
+*/
